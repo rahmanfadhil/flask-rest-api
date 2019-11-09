@@ -1,5 +1,6 @@
 env
 .vscode
+test.db
 
 # Created by https://www.gitignore.io/api/flask
 # Edit at https://www.gitignore.io/?templates=flask
